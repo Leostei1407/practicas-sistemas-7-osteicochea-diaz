@@ -1,2 +1,8 @@
-# practicas-sistemas-7-osteicochea-diaz
-practicas de implantacion de sistemas - osteicochea - diaz
+# Practicas de implantacion de sistemas 
+
+Integrantes: Leonardop Osteicochea e Isangelis Diaz 
+Asignatura: Implantacion de sistemas
+fecha: 22/10/26
+
+## Lo que aprendimos
+
